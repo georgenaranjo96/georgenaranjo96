@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm George N</h1>
 <h3 align="center">Web Developer from Los Angeles,CA!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgenaranjo96&label=Profile%20views&color=0e75b6&style=flat" alt="georgenaranjo96" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgenaranjo96" alt="georgenaranjo96" /></a> </p>
+
 - 🔭 I’m currently working on [STV Detail](https://github.com/georgenaranjo96/stv)
 
 - 🌱 I’m currently learning **NextJS**
@@ -26,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=georgenaranjo96&show_icons=true&locale=en&layout=compact" alt="georgenaranjo96" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgenaranjo96&show_icons=true&locale=en" alt="georgenaranjo96" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=georgenaranjo96&" alt="georgenaranjo96" /></p>
