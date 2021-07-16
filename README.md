@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📝 I regularly write articles on [hubfox.hashnode.dev](hubfox.hashnode.dev)
+- 📝 I regularly write articles on [hashnode](hubfox.hashnode.dev)
 
 - 💬 Ask me about **REACT,NextJS, Bootstrap**
 
